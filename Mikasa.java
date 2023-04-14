@@ -1,5 +1,5 @@
 public class Mikasa {
     public static void main(String[] args) {
-        System.out.println("Hello world. hbvvghb");
+        System.out.println("Hello world");
     }
 }
